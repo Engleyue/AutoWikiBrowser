@@ -857,6 +857,11 @@ namespace WikiFunctions
                     WPAWB = "[[Wikipédia:AutoWikiBrowser|AWB]]";
                     break;
 
+                case "hak":
+                    mSummaryTag = "(Sṳ́-yung";
+                    WPAWB = "[[Wikipedia:AutoWikiBrowser|Vì-kî chhṳ-thung chhà-khon-hi]])";
+                    break;
+                    
                 case "he":
                     mSummaryTag = "באמצעות";
                     WPAWB = "[[ויקיפדיה:AutoWikiBrowser|AWB]]";
